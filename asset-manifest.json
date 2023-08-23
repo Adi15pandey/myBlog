@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Adi15pandey/myBlog.git/static/css/main.a6d1eb66.css",
+    "main.js": "/Adi15pandey/myBlog.git/static/js/main.49dbe01e.js",
+    "index.html": "/Adi15pandey/myBlog.git/index.html",
+    "main.a6d1eb66.css.map": "/Adi15pandey/myBlog.git/static/css/main.a6d1eb66.css.map",
+    "main.49dbe01e.js.map": "/Adi15pandey/myBlog.git/static/js/main.49dbe01e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6d1eb66.css",
+    "static/js/main.49dbe01e.js"
+  ]
+}
